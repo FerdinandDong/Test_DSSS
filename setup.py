@@ -10,6 +10,7 @@ setup(
     entry_points={
         'console_scripts': [
             'math_quiz=Test_DSSS.math_quiz:main_function'
-        ]
+        ],
     }
+
 )
