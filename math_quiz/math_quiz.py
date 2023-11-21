@@ -75,6 +75,10 @@ def math_quiz():
 
     print(f"\nGame over! Your score is: {score}/{total_questions}")
 
+def main():
+    # 您的游戏逻辑
+    math_quiz()
+    
 if __name__ == "__main__":
     math_quiz()
 
